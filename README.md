@@ -20,7 +20,8 @@ This repository collects learning resources and software recommendations regardi
 ### 02 - Command Line Interface 
 
 - [Library Carpentry: The Unix Shell](https://librarycarpentry.org/lc-shell/) 
-- [eBook: Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/) 
+- [eBook: Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/)
+- [How to add Git Bash to Windows Terminal](https://neutrondev.com/add-git-bash-windows-terminal/)
 
 ### 03 - Version Control Software
 
