@@ -31,6 +31,9 @@ This repository collects learning resources and software recommendations regardi
 - [Library Carpentry: Introduction to Git](https://librarycarpentry.org/lc-git/)
 - [Software Carpentry: Version Control with Git ](https://swcarpentry.github.io/git-novice/) 
 - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+- [git-credential-store](https://git-scm.com/docs/git-credential-store)
+- [How to save username and password in git](https://gist.github.com/ankitsejwal/559a734b6e2000eef86dc10ceb767b12#file-save-github-credentials-md)
 
 ### 04 - Regular expressions
 
