@@ -46,6 +46,9 @@ This repository collects learning resources and software recommendations regardi
 - [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/)
 - [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
 
+### Data Science Tutorials 
+- [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
+
 #### Open data sources
 
 - [https://offenedaten-koeln.de/](https://offenedaten-koeln.de/)
@@ -77,7 +80,6 @@ This repository collects learning resources and software recommendations regardi
 - [https://librarycarpentry.org/lessons/](https://librarycarpentry.org/lessons/)
 - [https://stackoverflow.com/](https://stackoverflow.com/ ) 
 - [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
-
 
 ### Fun and leisure things
 
