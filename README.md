@@ -15,7 +15,12 @@ This repository collects learning resources and software recommendations regardi
 
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [Introduction to GitHub](https://docs.github.com/en/get-started) 
+- [Introduction to GitHub](https://docs.github.com/en/get-started)
+
+**Markdown editors**
+
+- [dillinger](https://dillinger.io/)
+- [markd](https://markd.it/)
 
 ### 02 - Command Line Interface 
 
