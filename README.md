@@ -64,7 +64,11 @@ This repository collects learning resources and software recommendations regardi
 - [https://data.gov/](https://data.gov/)   
 - [https://data.gov.uk/](https://data.gov.uk/)
 - [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/) 
-- [https://data.europa.eu/en](https://data.europa.eu/en) 
+- [https://data.europa.eu/en](https://data.europa.eu/en)
+- https://data.worldbank.org/
+- https://www.openstreetmap.org/
+- https://clinicaltrials.gov/
+- https://opencorporates.com/
 - [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 
 
 -----------------
