@@ -69,7 +69,8 @@ This repository collects learning resources and software recommendations regardi
 - https://www.openstreetmap.org/
 - https://clinicaltrials.gov/
 - https://opencorporates.com/
-- [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 
+- [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+- https://archive.ics.uci.edu/
 
 -----------------
 
