@@ -69,9 +69,7 @@ This repository collects learning resources and software recommendations regardi
 - [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 
------------------
-
-### Tools and technologies
+## Tools and technologies
 
 - [VS Code](https://code.visualstudio.com/) 
 - [GitHub](https://github.com/)
@@ -105,7 +103,7 @@ This repository collects learning resources and software recommendations regardi
 - keras: https://keras.io/
 - pytorch: https://pytorch.org/
 
-### Websites
+## Websites
 - [https://carpentries.org/](https://carpentries.org/)
 - [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
 - [https://datacarpentry.org/lessons/](https://datacarpentry.org/lessons/)
@@ -113,7 +111,7 @@ This repository collects learning resources and software recommendations regardi
 - [https://stackoverflow.com/](https://stackoverflow.com/ ) 
 - [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
 
-### Fun and leisure things
+## Fun and leisure things
 
 - [https://orlybooks.com/](https://orlybooks.com/)
 - [https://xkcd.com/](https://xkcd.com/)
