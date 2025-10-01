@@ -11,25 +11,21 @@ This repository collects learning resources and software recommendations regardi
 
 ## Learning resources
 
-### 01 - GitHub and Markdown
-
+### GitHub and Markdown
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Introduction to GitHub](https://docs.github.com/en/get-started)
 
 **Markdown editors**
-
 - [dillinger](https://dillinger.io/)
 - [markd](https://markd.it/)
 
-### 02 - Command Line Interface 
-
+### Command Line Interface 
 - [Library Carpentry: The Unix Shell](https://librarycarpentry.org/lc-shell/) 
 - [eBook: Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/)
 - [How to add Git Bash to Windows Terminal](https://neutrondev.com/add-git-bash-windows-terminal/)
 
-### 03 - Version Control Software
-
+### Version Control Software
 - [Official Git Documentation](https://git-scm.com/doc)
 - [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html)
 - [GitHub Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
@@ -40,13 +36,12 @@ This repository collects learning resources and software recommendations regardi
 - [git-credential-store](https://git-scm.com/docs/git-credential-store)
 - [How to save username and password in git](https://gist.github.com/ankitsejwal/559a734b6e2000eef86dc10ceb767b12#file-save-github-credentials-md)
 
-### 04 - Regular expressions
-
+### Regular expressions
 - [RegExr](https://regexr.com/)
 - [Library Carpentry: Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.org/lc-data-intro/)  
 - [RegexOne](https://regexone.com/) 
 
-### 05 - Open and Tidy Data 
+### Open and Tidy Data 
 
 - [Tidy data for librarians](https://librarycarpentry.org/lc-spreadsheets/)
 - [Library Carpentry: OpenRefine](https://librarycarpentry.org/lc-open-refine/)
@@ -54,8 +49,10 @@ This repository collects learning resources and software recommendations regardi
 ### Data Science Tutorials 
 - [Data Science for Beginners (Microsoft)](https://github.com/microsoft/Data-Science-For-Beginners)
 
-#### Open data sources
+### Machine Learning 
+- [OpenML](https://www.openml.org/)
 
+## Open data sources
 - [https://offenedaten-koeln.de/](https://offenedaten-koeln.de/)
 - [https://www.europeandataportal.eu/](https://www.europeandataportal.eu/) 
 - [https://www.govdata.de/](https://www.govdata.de/) 
@@ -70,7 +67,7 @@ This repository collects learning resources and software recommendations regardi
 - https://clinicaltrials.gov/
 - https://opencorporates.com/
 - [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-- https://archive.ics.uci.edu/
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 
 -----------------
 
@@ -82,6 +79,31 @@ This repository collects learning resources and software recommendations regardi
 - [Python](https://www.python.org/)
 - [Bash](https://www.gnu.org/software/bash/) 
 - [OpenRefine](https://openrefine.org/) 
+
+
+#### Data acquisition / web scraping / parsing
+- requests: https://docs.python-requests.org/en/latest/index.html
+- beautifulsoup: https://beautiful-soup-4.readthedocs.io/en/latest/
+- scrapy: https://scrapy.org/
+- parsel: https://parsel.readthedocs.io/en/latest/
+
+#### Data analysis / numerical operations / statistics
+- pandas: https://pandas.pydata.org/
+- numpy: http://www.numpy.org/
+- scipy: https://www.scipy.org/
+- statsmodels: https://www.statsmodels.org/stable/index.html
+
+#### Data visualisation / presentation
+- matplotlib: https://matplotlib.org/
+- seaborn: https://seaborn.pydata.org/
+- bokeh: https://bokeh.org/
+- plotly: https://plotly.com/
+
+#### Machine learning / deep learning
+- scikit-learn: https://scikit-learn.org/stable/
+- tensorflow: https://www.tensorflow.org/
+- keras: https://keras.io/
+- pytorch: https://pytorch.org/
 
 ### Websites
 - [https://carpentries.org/](https://carpentries.org/)
