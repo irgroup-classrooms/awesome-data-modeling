@@ -108,8 +108,11 @@ This repository collects learning resources and software recommendations regardi
 - [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
 - [https://datacarpentry.org/lessons/](https://datacarpentry.org/lessons/)
 - [https://librarycarpentry.org/lessons/](https://librarycarpentry.org/lessons/)
-- [https://stackoverflow.com/](https://stackoverflow.com/ ) 
+- [https://stackoverflow.com/](https://stackoverflow.com/)
+
+ ### reddit
 - [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
+- https://www.reddit.com/r/dataengineering/
 
 ## Fun and leisure things
 
