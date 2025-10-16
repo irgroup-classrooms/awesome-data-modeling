@@ -114,6 +114,11 @@ This repository collects learning resources and software recommendations regardi
 - [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
 - https://www.reddit.com/r/dataengineering/
 
+## Other awesome lists
+- https://github.com/igorbarinov/awesome-data-engineering
+- https://github.com/academic/awesome-datascience
+- https://github.com/krzjoa/awesome-python-data-science
+
 ## Fun and leisure things
 
 - [https://orlybooks.com/](https://orlybooks.com/)
