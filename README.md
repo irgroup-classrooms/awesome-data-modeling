@@ -7,7 +7,7 @@
 </div>
 </br>
 
-This repository collects learning resources and software recommendations regarding the _DIS08 Data Modeling_ course in the winter semester 2024/25. It follows the idea of other awesome lists like [awesome-datascience](https://github.com/academic/awesome-datascience) or [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science). Everyone is invited to collaborate on this list. The more you participate, the more learning resources you will have at the end of the semester! If you would like to contribute recommendations, please make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) that will be merged afterwards.
+This repository collects learning resources and software recommendations regarding the _DIS08 Data Modeling_ course at TH Köln - University of Applied Sciences. It follows the idea of other awesome lists like [awesome-datascience](https://github.com/academic/awesome-datascience) or [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science). Everyone is invited to collaborate on this list. The more you participate, the more learning resources you will have at the end of the semester! If you would like to contribute recommendations, please make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) that will be merged afterwards.
 
 ## Learning resources
 
