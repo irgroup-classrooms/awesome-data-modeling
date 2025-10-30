@@ -52,6 +52,18 @@ This repository collects learning resources and software recommendations regardi
 ### Machine Learning 
 - [OpenML](https://www.openml.org/)
 
+## How to use BASH on Windows?
+
+> [!NOTE]
+> Windows' Command Prompt (**cmd.exe**) does not support BASH commands.
+
+In order to use BASH commands on Windows, you have different options. In our cases the best solution is [Git BASH](https://gitforwindows.org/) as you need to install Git anyway. However, if it is just about using BASH commands you can also take a look at [Cygwin](https://www.cygwin.com/index.html). Another option might be running a virtual machine with a Linux distribution - for example, with the help of the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about) or [VirtualBox](https://www.virtualbox.org/).
+
+- https://gitforwindows.org/
+- https://www.cygwin.com/index.html
+- https://learn.microsoft.com/en-us/windows/wsl/about
+- https://www.virtualbox.org/
+
 ## Open data sources
 - [https://offenedaten-koeln.de/](https://offenedaten-koeln.de/)
 - [https://www.europeandataportal.eu/](https://www.europeandataportal.eu/) 
@@ -70,7 +82,6 @@ This repository collects learning resources and software recommendations regardi
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/)
 
 ## Tools and technologies
-
 - [VS Code](https://code.visualstudio.com/) 
 - [GitHub](https://github.com/)
 - [Git](https://git-scm.com/)
